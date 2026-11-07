@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://play.sambhavgames.workers.dev/nitro_takeoff">
-  <img src="assets/fly_buster_cover.png" alt="Nitro TakeOff - click to play" width="100%">
+  <img src="assets/https://play.sambhavgames.workers.dev/nitro_takeoff_cover.png" alt="Nitro TakeOff - click to play" width="100%">
 </a>
 
 # ✈️ Nitro TakeOff 🚓
